@@ -1,6 +1,6 @@
 # EGG
 Master repo for the game Egg, shipped on itch.io -- Try the game out now at the link below:
-https://ianmatic.itch.io/egg
+<br>https://ianmatic.itch.io/egg
 
 ## What engine is this game made in?
 We built out the game in the MonoGame Engine. Our tools developer built out the external level designer as a Winforms project that exports a kind of file which can be imported by a set of custom scripts he set up in the game itself.
