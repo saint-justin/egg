@@ -6,7 +6,7 @@ Master repo for the game Egg, shipped on itch.io -- Try the game out now at the 
 We built out the game in the MonoGame Engine. Our tools developer built out the external level designer as a Winforms project that exports a kind of file which can be imported by a set of custom scripts he set up in the game itself.
 
 ## Who made the art?
-Background Art: The Jungle Pack by Jessie M. - https://jesse-m.itch.io/jungle-pack
+Background Art: The Jungle Pack by Jessie M. - https://jesse-m.itch.io/jungle-pack <br>
 Everything Else: Our team's artist.
 
 ## Who worked on this game?
